@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 import java.util.Objects;
 
 @Entity
-public class Epoch implements Table {
+public class Epoch {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public Long id;

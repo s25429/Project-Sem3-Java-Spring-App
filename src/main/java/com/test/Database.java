@@ -1,38 +1,47 @@
 package com.test;
 
 import com.test.repositories.*;
-import com.test.tables.Table;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Component;
 
-import java.util.Map;
-
 @Component
-public class DatabaseManagement {
-    public enum Tables { AUTHOR, BOOK, COLLECTION, EPOCH, GENRE, KIND, THEME }
+public class Database {
+    public enum Table { AUTHOR, BOOK, COLLECTION, EPOCH, GENRE, KIND, THEME }
 
     @Autowired
-    private static AuthorRepository authorRepository;
+    private AuthorRepository authorRepository;
 
     @Autowired
-    private static BookRepository bookRepository;
+    private BookRepository bookRepository;
 
     @Autowired
-    private static CollectionRepository collectionRepository;
+    private CollectionRepository collectionRepository;
 
     @Autowired
-    private static EpochRepository epochRepository;
+    private EpochRepository epochRepository;
 
     @Autowired
-    private static GenreRepository genreRepository;
+    private GenreRepository genreRepository;
 
     @Autowired
-    private static KindRepository kindRepository;
+    private KindRepository kindRepository;
 
     @Autowired
-    private static ThemeRepository themeRepository;
+    private ThemeRepository themeRepository;
+
+
+    public JpaRepository table(Table table) {
+        return switch (table) {
+            case AUTHOR -> authorRepository;
+            case BOOK -> bookRepository;
+            case COLLECTION -> collectionRepository;
+            case EPOCH -> epochRepository;
+            case GENRE -> genreRepository;
+            case KIND -> kindRepository;
+            case THEME -> themeRepository;
+        };
+    }
 
     /*
     @Autowired

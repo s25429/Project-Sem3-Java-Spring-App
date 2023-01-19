@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 import java.util.Objects;
 
 @Entity
-public class Kind implements Table {
+public class Kind {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public Long id;

@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 import java.util.Objects;
 
 @Entity
-public class Theme implements Table {
+public class Theme {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public Long id;

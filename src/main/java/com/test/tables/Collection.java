@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 import java.util.Objects;
 
 @Entity
-public class Collection implements Table {
+public class Collection {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     public Long id;
