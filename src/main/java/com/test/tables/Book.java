@@ -5,33 +5,79 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
+import java.util.Objects;
+
 @Entity
-public class Book {
+public class Book implements Table {
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    public Long id;
 
     // General Info
-    private String title;
-    private String author;
+    public String title;
+    public String author;
 
     // Special Info
-    private String kind;
-    private String genre;
-    private String epoch;
+    public String kind;
+    public String genre;
+    public String epoch;
 
     // Other Info
-    private String source; // url
-    private boolean has_audiobook; // has_audio
+    public String source; // url
+    public boolean hasAudiobook; // has_audio
 //    private String liked;
 
     // Backend Info
-    private String fullSortKey;
-    private String slug;
-    private String query; // href
+    public String fullSortKey;
+    public String slug;
+    public String query; // href
 
     // Thumbnail Info
-    private String coverThumb;
-    private String simpleThumb;
-    private String coverColor;
+    public String coverThumb;
+    public String simpleThumb;
+    public String coverColor;
+
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(
+                id,
+                title,
+                author,
+                kind,
+                genre,
+                epoch,
+                source,
+                hasAudiobook,
+                fullSortKey,
+                slug,
+                query,
+                coverThumb,
+                simpleThumb,
+                coverColor
+        );
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+
+        var o = (Book) obj;
+        return (id.equals(o.id)
+                && title.equals(o.title)
+                && author.equals(o.author)
+                && kind.equals(o.kind)
+                && genre.equals(o.genre)
+                && epoch.equals(o.epoch)
+                && source.equals(o.source)
+                && hasAudiobook == o.hasAudiobook
+                && fullSortKey.equals(o.fullSortKey)
+                && slug.equals(o.slug)
+                && query.equals(o.query)
+                && coverThumb.equals(o.coverThumb)
+                && simpleThumb.equals(o.simpleThumb)
+                && coverColor.equals(o.coverColor)
+        );
+    }
 }

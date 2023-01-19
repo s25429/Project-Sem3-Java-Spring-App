@@ -5,14 +5,42 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-@Entity
-public class Theme {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+import java.util.Objects;
 
-    private String name;
-    private String source; // url
-    private String query; // href
-    private String slug;
+@Entity
+public class Theme implements Table {
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    public Long id;
+
+    public String name;
+    public String source; // url
+    public String query; // href
+    public String slug;
+
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(
+                id,
+                name,
+                source,
+                query,
+                slug
+        );
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+
+        var o = (Theme) obj;
+        return (id.equals(o.id)
+                && name.equals(o.name)
+                && source.equals(o.source)
+                && query.equals(o.query)
+                && slug.equals(o.slug)
+        );
+    }
 }
