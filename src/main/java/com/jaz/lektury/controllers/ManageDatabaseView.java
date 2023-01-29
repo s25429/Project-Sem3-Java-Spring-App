@@ -178,7 +178,7 @@ public class ManageDatabaseView {
                 .orElseGet(() -> new ResponseEntity<>(null, HttpStatus.NOT_FOUND));
     }
 
-    @DeleteMapping(value = {"/api/rodzaje", "/api/rodzaje/list", "/api/rodzaje/wszystkie", "/api/rodzaje/lista"})
+    @DeleteMapping(value = {"/api/gatunki/{id}", "/api/gatunki/delete/{id}", "/api/gatunki/usun/{id}"})
     public ResponseEntity<?> deleteGenre(@PathVariable Long id) {
         return db.getGenreRepository().findById(id)
                 .map(value -> {
