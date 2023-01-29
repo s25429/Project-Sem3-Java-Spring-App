@@ -1,0 +1,808 @@
+2023-01-22 14:48:01,099 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 12256 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 14:48:01,107 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 14:48:01,108 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 14:48:04,399 INFO c.t.TestApplication [main] Started TestApplication in 3.57 seconds (process running for 4.155)
+2023-01-22 14:48:48,119 DEBUG c.t.DtoObjectTest [http-nio-8081-exec-6] test : variable
+2023-01-22 14:48:48,119 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Updating Author table
+2023-01-22 14:48:49,042 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Got 671 records in 922ms, using 2 record(s)
+2023-01-22 14:48:49,356 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Finished inserting records in 313ms
+2023-01-22 14:48:49,356 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Updating Book table
+2023-01-22 14:48:57,245 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Got 6836 records in 7886ms, using 2 record(s)
+2023-01-22 14:48:57,390 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Finished inserting records in 143ms
+2023-01-22 14:48:57,391 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Updating Collection table
+2023-01-22 14:48:57,546 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Got 47 records in 154ms, using 2 record(s)
+2023-01-22 14:48:57,962 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Finished inserting records in 414ms
+2023-01-22 14:48:57,962 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Updating Epoch table
+2023-01-22 14:48:58,269 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Got 28 records in 305ms, using 2 record(s)
+2023-01-22 14:48:58,387 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Finished inserting records in 117ms
+2023-01-22 14:48:58,387 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Updating Genre table
+2023-01-22 14:48:58,624 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Got 127 records in 236ms, using 2 record(s)
+2023-01-22 14:48:58,923 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Finished inserting records in 298ms
+2023-01-22 14:48:58,923 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Updating Kind table
+2023-01-22 14:48:59,158 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Got 17 records in 234ms, using 2 record(s)
+2023-01-22 14:48:59,331 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Finished inserting records in 172ms
+2023-01-22 14:48:59,332 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Updating Theme table
+2023-01-22 14:48:59,809 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Got 723 records in 476ms, using 2 record(s)
+2023-01-22 14:49:00,073 INFO c.t.DtoObjectTest [http-nio-8081-exec-6] Finished inserting records in 263ms
+2023-01-22 15:03:24,349 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 20208 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:03:24,357 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:03:24,358 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:03:27,964 INFO c.t.TestApplication [main] Started TestApplication in 3.914 seconds (process running for 4.968)
+2023-01-22 15:04:19,882 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 24380 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:04:19,890 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:04:19,891 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:04:23,515 INFO c.t.TestApplication [main] Started TestApplication in 3.916 seconds (process running for 4.687)
+2023-01-22 15:05:12,181 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 1132 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:05:12,188 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:05:12,189 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:05:15,802 INFO c.t.TestApplication [main] Started TestApplication in 3.919 seconds (process running for 4.699)
+2023-01-22 15:05:35,280 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 7840 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:05:35,286 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:05:35,287 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:05:38,982 INFO c.t.TestApplication [main] Started TestApplication in 3.988 seconds (process running for 4.748)
+2023-01-22 15:06:22,425 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 23840 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:06:22,433 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:06:22,434 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:06:25,979 INFO c.t.TestApplication [main] Started TestApplication in 3.84 seconds (process running for 4.589)
+2023-01-22 15:08:48,860 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 10468 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:08:48,866 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:08:48,867 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:08:52,330 INFO c.t.TestApplication [main] Started TestApplication in 3.75 seconds (process running for 4.353)
+2023-01-22 15:10:44,021 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 8380 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:10:44,028 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:10:44,029 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:10:47,625 INFO c.t.TestApplication [main] Started TestApplication in 3.893 seconds (process running for 4.59)
+2023-01-22 15:12:49,510 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 6056 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-22 15:12:49,517 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-22 15:12:49,518 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-22 15:12:53,162 INFO c.t.TestApplication [main] Started TestApplication in 3.941 seconds (process running for 4.745)
+2023-01-25 16:33:24,758 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 23988 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 16:33:24,765 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 16:33:24,765 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 16:33:32,276 INFO c.t.TestApplication [main] Started TestApplication in 7.843 seconds (process running for 8.702)
+2023-01-25 16:33:55,867 DEBUG c.t.DtoObjectTest [http-nio-8081-exec-2] test : variable
+2023-01-25 16:33:55,867 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Author table
+2023-01-25 16:33:56,631 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 671 records in 762ms, using 2 record(s)
+2023-01-25 16:33:56,957 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Finished inserting records in 325ms
+2023-01-25 16:33:56,958 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Book table
+2023-01-25 16:34:04,025 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 6836 records in 7065ms, using 2 record(s)
+2023-01-25 16:34:04,198 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Finished inserting records in 172ms
+2023-01-25 16:34:04,199 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Collection table
+2023-01-25 16:34:04,347 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 47 records in 147ms, using 2 record(s)
+2023-01-25 16:34:04,548 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Finished inserting records in 201ms
+2023-01-25 16:34:04,548 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Epoch table
+2023-01-25 16:34:04,987 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 28 records in 437ms, using 2 record(s)
+2023-01-25 16:34:05,203 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Finished inserting records in 215ms
+2023-01-25 16:34:05,204 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Genre table
+2023-01-25 16:34:05,460 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 127 records in 256ms, using 2 record(s)
+2023-01-25 16:34:05,757 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Finished inserting records in 295ms
+2023-01-25 16:34:05,758 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Kind table
+2023-01-25 16:34:06,167 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 17 records in 409ms, using 2 record(s)
+2023-01-25 16:34:06,437 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Finished inserting records in 269ms
+2023-01-25 16:34:06,438 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Theme table
+2023-01-25 16:34:11,581 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 723 records in 5143ms, using 2 record(s)
+2023-01-25 16:34:11,845 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Finished inserting records in 263ms
+2023-01-25 16:36:31,723 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 2076 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 16:36:31,729 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 16:36:31,730 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 16:36:38,097 INFO c.t.TestApplication [main] Started TestApplication in 6.648 seconds (process running for 7.261)
+2023-01-25 16:36:40,834 DEBUG c.t.DtoObjectTest [http-nio-8081-exec-1] test : variable
+2023-01-25 16:36:40,834 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 16:36:41,688 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 852ms, using 2 record(s)
+2023-01-25 16:36:42,012 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 323ms
+2023-01-25 16:36:42,012 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Book table
+2023-01-25 16:36:44,713 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 6836 records in 2700ms, using 2 record(s)
+2023-01-25 16:36:44,966 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 251ms
+2023-01-25 16:36:44,966 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Collection table
+2023-01-25 16:36:45,107 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 47 records in 139ms, using 2 record(s)
+2023-01-25 16:36:45,283 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 174ms
+2023-01-25 16:36:45,283 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Epoch table
+2023-01-25 16:36:45,545 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 28 records in 262ms, using 2 record(s)
+2023-01-25 16:36:45,665 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 120ms
+2023-01-25 16:36:45,666 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Genre table
+2023-01-25 16:36:45,985 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 127 records in 318ms, using 2 record(s)
+2023-01-25 16:36:46,137 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 151ms
+2023-01-25 16:36:46,137 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Kind table
+2023-01-25 16:36:46,282 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 17 records in 144ms, using 2 record(s)
+2023-01-25 16:36:46,562 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 279ms
+2023-01-25 16:36:46,562 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Theme table
+2023-01-25 16:36:47,378 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 723 records in 813ms, using 2 record(s)
+2023-01-25 16:36:47,562 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 183ms
+2023-01-25 16:41:56,839 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 12608 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 16:41:56,851 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 16:41:56,852 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 16:42:00,223 INFO c.t.TestApplication [main] Started TestApplication in 3.674 seconds (process running for 4.329)
+2023-01-25 16:42:33,888 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 17456 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 16:42:33,895 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 16:42:33,896 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 16:42:37,237 INFO c.t.TestApplication [main] Started TestApplication in 3.626 seconds (process running for 4.22)
+2023-01-25 16:42:54,448 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 16:42:55,262 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 811ms, using 2 record(s)
+2023-01-25 16:42:55,568 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 304ms
+2023-01-25 16:42:55,568 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Book table
+2023-01-25 16:43:01,711 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 6836 records in 6142ms, using 2 record(s)
+2023-01-25 16:43:01,855 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 142ms
+2023-01-25 16:43:01,856 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Collection table
+2023-01-25 16:43:01,990 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 47 records in 135ms, using 2 record(s)
+2023-01-25 16:43:02,180 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 188ms
+2023-01-25 16:43:02,180 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Epoch table
+2023-01-25 16:43:02,592 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 28 records in 411ms, using 2 record(s)
+2023-01-25 16:43:02,743 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 150ms
+2023-01-25 16:43:02,743 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Genre table
+2023-01-25 16:43:03,450 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 127 records in 704ms, using 2 record(s)
+2023-01-25 16:43:03,692 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 241ms
+2023-01-25 16:43:03,692 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Kind table
+2023-01-25 16:43:04,104 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 17 records in 410ms, using 2 record(s)
+2023-01-25 16:43:04,364 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 259ms
+2023-01-25 16:43:04,365 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Theme table
+2023-01-25 16:43:05,160 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 723 records in 794ms, using 2 record(s)
+2023-01-25 16:43:05,385 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 224ms
+2023-01-25 16:46:27,754 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 13004 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 16:46:27,760 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 16:46:27,761 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 16:46:34,076 INFO c.t.TestApplication [main] Started TestApplication in 6.622 seconds (process running for 7.235)
+2023-01-25 16:46:37,530 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Updating Author table
+2023-01-25 16:46:38,541 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Got 671 records in 1008ms, using 2 record(s)
+2023-01-25 16:46:38,853 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Finished inserting records in 310ms
+2023-01-25 16:46:38,853 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Updating Book table
+2023-01-25 16:46:45,443 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Got 6836 records in 6589ms, using 2 record(s)
+2023-01-25 16:46:45,610 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Finished inserting records in 167ms
+2023-01-25 16:46:45,610 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Updating Collection table
+2023-01-25 16:46:45,749 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Got 47 records in 137ms, using 2 record(s)
+2023-01-25 16:46:45,932 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Finished inserting records in 182ms
+2023-01-25 16:46:45,932 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Updating Epoch table
+2023-01-25 16:46:46,562 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Got 28 records in 629ms, using 2 record(s)
+2023-01-25 16:46:46,694 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Finished inserting records in 132ms
+2023-01-25 16:46:46,694 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Updating Genre table
+2023-01-25 16:46:47,377 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Got 127 records in 683ms, using 2 record(s)
+2023-01-25 16:46:47,523 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Finished inserting records in 144ms
+2023-01-25 16:46:47,524 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Updating Kind table
+2023-01-25 16:46:48,186 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Got 17 records in 661ms, using 2 record(s)
+2023-01-25 16:46:48,360 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Finished inserting records in 173ms
+2023-01-25 16:46:48,360 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Updating Theme table
+2023-01-25 16:46:49,127 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Got 723 records in 766ms, using 2 record(s)
+2023-01-25 16:46:49,277 INFO c.t.DtoObjectTest [http-nio-8081-exec-3] Finished inserting records in 149ms
+2023-01-25 17:00:43,787 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 22428 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 17:00:43,795 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 17:00:43,796 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 17:00:47,317 INFO c.t.TestApplication [main] Started TestApplication in 3.804 seconds (process running for 4.403)
+2023-01-25 17:00:52,002 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 17:00:52,677 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 672ms, using 2 record(s)
+2023-01-25 17:00:53,010 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 332ms
+2023-01-25 17:01:11,363 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Updating Author table
+2023-01-25 17:01:11,775 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] Got 671 records in 411ms, using 2 record(s)
+2023-01-25 17:01:11,783 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8081-exec-2] Table 'testdb.author' doesn't exist
+2023-01-25 17:02:05,546 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 2240 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 17:02:05,552 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 17:02:05,553 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 17:02:12,156 INFO c.t.TestApplication [main] Started TestApplication in 6.887 seconds (process running for 7.497)
+2023-01-25 17:02:13,247 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 17:02:13,842 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 594ms, using 2 record(s)
+2023-01-25 17:02:14,150 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 307ms
+2023-01-25 17:02:46,329 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 5844 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 17:02:46,340 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 17:02:46,341 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 17:02:53,052 INFO c.t.TestApplication [main] Started TestApplication in 7.005 seconds (process running for 7.608)
+2023-01-25 17:02:54,228 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 17:02:55,045 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 814ms, using 2 record(s)
+2023-01-25 17:02:55,315 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 269ms
+2023-01-25 17:05:05,039 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 8568 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 17:05:05,047 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 17:05:05,047 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 17:05:12,079 INFO c.t.TestApplication [main] Started TestApplication in 7.32 seconds (process running for 7.931)
+2023-01-25 17:05:24,592 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 17:05:25,159 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 566ms, using 2 record(s)
+2023-01-25 17:05:25,541 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 380ms
+2023-01-25 17:05:25,541 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Book table
+2023-01-25 17:05:27,991 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 6836 records in 2449ms, using 2 record(s)
+2023-01-25 17:05:28,146 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 155ms
+2023-01-25 17:53:39,659 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 12120 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 17:53:39,666 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 17:53:39,667 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 17:54:49,254 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 21724 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 17:54:49,259 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 17:54:49,260 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 17:54:58,317 INFO c.t.TestApplication [main] Started TestApplication in 9.346 seconds (process running for 9.931)
+2023-01-25 17:55:01,467 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 17:55:02,382 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 914ms, using 2 record(s)
+2023-01-25 17:55:02,697 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 313ms
+2023-01-25 17:55:02,698 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Book table
+2023-01-25 17:55:08,315 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 6836 records in 5616ms, using 2 record(s)
+2023-01-25 17:55:08,538 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 221ms
+2023-01-25 17:55:08,538 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Collection table
+2023-01-25 17:55:08,674 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 47 records in 135ms, using 2 record(s)
+2023-01-25 17:55:08,830 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 156ms
+2023-01-25 17:55:08,830 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Epoch table
+2023-01-25 17:55:09,213 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 28 records in 381ms, using 2 record(s)
+2023-01-25 17:55:09,363 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 149ms
+2023-01-25 17:55:09,363 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Genre table
+2023-01-25 17:55:09,745 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 127 records in 381ms, using 2 record(s)
+2023-01-25 17:55:09,989 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 243ms
+2023-01-25 17:55:09,990 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Kind table
+2023-01-25 17:55:10,402 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 17 records in 412ms, using 2 record(s)
+2023-01-25 17:55:10,571 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 168ms
+2023-01-25 17:55:10,572 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Theme table
+2023-01-25 17:55:11,422 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 723 records in 850ms, using 2 record(s)
+2023-01-25 17:55:11,620 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 198ms
+2023-01-25 18:03:14,835 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 23840 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 18:03:14,842 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 18:03:14,842 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 18:03:24,109 INFO c.t.TestApplication [main] Started TestApplication in 9.544 seconds (process running for 10.139)
+2023-01-25 18:03:29,394 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 18:03:30,118 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 723ms, using 2 record(s)
+2023-01-25 18:03:30,423 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 303ms
+2023-01-25 18:03:30,424 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Collection table
+2023-01-25 18:03:30,555 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 47 records in 130ms, using 2 record(s)
+2023-01-25 18:03:30,706 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 150ms
+2023-01-25 18:03:30,706 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Epoch table
+2023-01-25 18:03:30,882 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 28 records in 175ms, using 2 record(s)
+2023-01-25 18:03:31,180 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 297ms
+2023-01-25 18:03:31,182 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Genre table
+2023-01-25 18:03:31,397 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 127 records in 214ms, using 2 record(s)
+2023-01-25 18:03:31,571 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 173ms
+2023-01-25 18:03:31,571 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Kind table
+2023-01-25 18:03:31,720 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 17 records in 148ms, using 2 record(s)
+2023-01-25 18:03:32,049 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 329ms
+2023-01-25 18:03:32,050 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Theme table
+2023-01-25 18:03:32,479 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 723 records in 429ms, using 2 record(s)
+2023-01-25 18:03:32,623 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 144ms
+2023-01-25 18:03:32,624 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Book table
+2023-01-25 18:03:35,392 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 6836 records in 2767ms, using 2 record(s)
+2023-01-25 18:03:35,628 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 235ms
+2023-01-25 18:04:09,874 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 16856 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 18:04:09,881 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 18:04:09,882 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 18:04:19,980 INFO c.t.TestApplication [main] Started TestApplication in 10.43 seconds (process running for 11.645)
+2023-01-25 18:04:23,266 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 18:04:23,898 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 629ms, using 2 record(s)
+2023-01-25 18:04:24,205 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 305ms
+2023-01-25 18:04:24,206 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Collection table
+2023-01-25 18:04:24,343 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 47 records in 138ms, using 2 record(s)
+2023-01-25 18:04:24,605 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 260ms
+2023-01-25 18:04:24,606 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Epoch table
+2023-01-25 18:04:24,900 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 28 records in 293ms, using 2 record(s)
+2023-01-25 18:04:25,080 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 179ms
+2023-01-25 18:04:25,081 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Genre table
+2023-01-25 18:04:25,673 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 127 records in 592ms, using 2 record(s)
+2023-01-25 18:04:25,876 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 202ms
+2023-01-25 18:04:25,876 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Kind table
+2023-01-25 18:04:26,019 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 17 records in 142ms, using 2 record(s)
+2023-01-25 18:04:26,268 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 247ms
+2023-01-25 18:04:26,268 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Theme table
+2023-01-25 18:04:27,100 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 723 records in 831ms, using 2 record(s)
+2023-01-25 18:04:27,326 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 226ms
+2023-01-25 18:04:27,327 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Book table
+2023-01-25 18:04:32,137 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 6836 records in 4809ms, using 2 record(s)
+2023-01-25 18:05:53,200 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 81063ms
+2023-01-25 18:06:35,584 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 21212 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 18:06:35,591 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 18:06:35,591 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 18:06:45,314 INFO c.t.TestApplication [main] Started TestApplication in 9.999 seconds (process running for 10.584)
+2023-01-25 18:06:55,593 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Author table
+2023-01-25 18:06:56,441 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 671 records in 845ms, using all record(s)
+2023-01-25 18:07:23,617 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 27176ms
+2023-01-25 18:07:23,618 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Collection table
+2023-01-25 18:07:24,071 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 47 records in 453ms, using all record(s)
+2023-01-25 18:07:26,100 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 2028ms
+2023-01-25 18:07:26,103 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Epoch table
+2023-01-25 18:07:26,344 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 28 records in 240ms, using all record(s)
+2023-01-25 18:07:27,633 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 1289ms
+2023-01-25 18:07:27,634 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Genre table
+2023-01-25 18:07:27,960 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 127 records in 325ms, using all record(s)
+2023-01-25 18:07:33,332 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 5372ms
+2023-01-25 18:07:33,335 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Kind table
+2023-01-25 18:07:33,550 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 17 records in 214ms, using all record(s)
+2023-01-25 18:07:34,491 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 940ms
+2023-01-25 18:07:34,494 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Theme table
+2023-01-25 18:07:35,240 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 723 records in 745ms, using all record(s)
+2023-01-25 18:08:05,242 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 30002ms
+2023-01-25 18:08:05,243 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Updating Book table
+2023-01-25 18:08:09,282 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Got 6836 records in 4039ms, using all record(s)
+2023-01-25 18:19:23,680 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] Finished inserting records in 674397ms
+2023-01-25 20:08:04,499 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 13728 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 20:08:04,506 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 20:08:04,507 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 20:08:15,088 INFO c.t.TestApplication [main] Started TestApplication in 10.936 seconds (process running for 11.749)
+2023-01-25 20:09:42,580 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 19344 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 20:09:42,586 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 20:09:42,586 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 20:09:53,171 INFO c.t.TestApplication [main] Started TestApplication in 10.889 seconds (process running for 11.697)
+2023-01-25 20:09:55,598 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 895ms, using 671 record(s)
+2023-01-25 20:09:55,736 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Got 47 records in 136ms, using 47 record(s)
+2023-01-25 20:09:55,896 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 160ms, using 28 record(s)
+2023-01-25 20:09:56,146 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 247ms, using 127 record(s)
+2023-01-25 20:09:56,315 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 167ms, using 17 record(s)
+2023-01-25 20:09:58,784 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Got 723 records in 2467ms, using 723 record(s)
+2023-01-25 20:10:03,440 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 4656ms, using 6836 record(s)
+2023-01-25 20:13:37,508 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 3608 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 20:13:37,515 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 20:13:37,516 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 20:13:50,408 INFO c.t.TestApplication [main] Started TestApplication in 13.174 seconds (process running for 13.79)
+2023-01-25 20:13:54,313 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 715ms, using 671 record(s)
+2023-01-25 20:13:54,702 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Got 47 records in 389ms, using 47 record(s)
+2023-01-25 20:13:55,079 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 375ms, using 28 record(s)
+2023-01-25 20:13:55,263 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 183ms, using 127 record(s)
+2023-01-25 20:13:55,407 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 144ms, using 17 record(s)
+2023-01-25 20:13:55,980 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Got 723 records in 571ms, using 723 record(s)
+2023-01-25 20:13:58,652 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 2672ms, using 6836 record(s)
+2023-01-25 21:07:40,450 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 8560 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 21:07:40,458 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 21:07:40,459 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 21:07:51,050 INFO c.t.TestApplication [main] Started TestApplication in 10.876 seconds (process running for 11.472)
+2023-01-25 21:19:51,545 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 1512 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 21:19:51,551 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 21:19:51,552 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 21:20:02,184 INFO c.t.TestApplication [main] Started TestApplication in 10.909 seconds (process running for 11.497)
+2023-01-25 21:20:05,816 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 898ms, using 671 record(s)
+2023-01-25 21:20:35,518 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Finished inserting records in 29701ms
+2023-01-25 21:20:35,885 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Got 47 records in 365ms, using 47 record(s)
+2023-01-25 21:20:37,693 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Finished inserting records in 1806ms
+2023-01-25 21:20:37,919 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 224ms, using 28 record(s)
+2023-01-25 21:20:39,304 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Finished inserting records in 1384ms
+2023-01-25 21:20:39,761 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 456ms, using 127 record(s)
+2023-01-25 21:20:45,744 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Finished inserting records in 5980ms
+2023-01-25 21:20:46,166 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 421ms, using 17 record(s)
+2023-01-25 21:20:47,160 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Finished inserting records in 992ms
+2023-01-25 21:20:51,335 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Got 723 records in 4175ms, using 723 record(s)
+2023-01-25 21:21:21,593 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Finished inserting records in 30257ms
+2023-01-25 21:21:29,280 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 7685ms, using 6836 record(s)
+2023-01-25 21:27:27,783 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Finished inserting records in 358500ms
+2023-01-25 22:16:08,489 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 18924 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:16:08,496 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:16:08,496 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:16:18,800 INFO c.t.TestApplication [main] Started TestApplication in 10.578 seconds (process running for 11.165)
+2023-01-25 22:17:01,036 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 21696 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:17:01,043 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:17:01,044 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:17:11,583 INFO c.t.TestApplication [main] Started TestApplication in 10.837 seconds (process running for 11.445)
+2023-01-25 22:17:14,463 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 915ms, using 671 record(s)
+2023-01-25 22:17:43,547 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Finished inserting records in 29082ms
+2023-01-25 22:17:43,810 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Got 47 records in 263ms, using 47 record(s)
+2023-01-25 22:17:45,627 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Finished inserting records in 1816ms
+2023-01-25 22:17:45,929 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 301ms, using 28 record(s)
+2023-01-25 22:17:47,185 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Finished inserting records in 1255ms
+2023-01-25 22:17:47,387 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 201ms, using 127 record(s)
+2023-01-25 22:17:53,222 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Finished inserting records in 5833ms
+2023-01-25 22:17:53,697 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 472ms, using 17 record(s)
+2023-01-25 22:17:54,613 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Finished inserting records in 915ms
+2023-01-25 22:17:55,571 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Got 723 records in 957ms, using 723 record(s)
+2023-01-25 22:18:25,650 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Finished inserting records in 30078ms
+2023-01-25 22:18:29,984 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 4334ms, using 6836 record(s)
+2023-01-25 22:24:32,924 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Finished inserting records in 362939ms
+2023-01-25 22:43:40,629 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 19104 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:43:40,637 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:43:40,638 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:43:43,980 INFO c.t.TestApplication [main] Started TestApplication in 3.637 seconds (process running for 4.244)
+2023-01-25 22:44:15,655 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 12016 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:44:15,662 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:44:15,663 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:44:19,503 INFO c.t.TestApplication [main] Started TestApplication in 4.141 seconds (process running for 4.886)
+2023-01-25 22:44:54,973 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 14192 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:44:54,983 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:44:54,984 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:44:59,525 INFO c.t.TestApplication [main] Started TestApplication in 4.838 seconds (process running for 5.6)
+2023-01-25 22:48:00,565 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 16400 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:48:00,572 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:48:00,573 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:48:04,265 INFO c.t.TestApplication [main] Started TestApplication in 3.991 seconds (process running for 4.749)
+2023-01-25 22:52:19,810 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 6844 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:52:19,817 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:52:19,818 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:52:23,593 INFO c.t.TestApplication [main] Started TestApplication in 4.077 seconds (process running for 4.89)
+2023-01-25 22:53:49,814 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 4828 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:53:49,820 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:53:49,822 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:53:53,405 INFO c.t.TestApplication [main] Started TestApplication in 3.875 seconds (process running for 4.616)
+2023-01-25 22:56:58,624 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 2712 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-25 22:56:58,631 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-25 22:56:58,632 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-25 22:57:02,537 INFO c.t.TestApplication [main] Started TestApplication in 4.213 seconds (process running for 5.002)
+2023-01-25 22:57:10,666 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8081-exec-3] Field 'id' doesn't have a default value
+2023-01-26 11:53:11,460 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 15100 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 11:53:11,471 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 11:53:11,472 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 11:53:17,519 INFO c.t.TestApplication [main] Started TestApplication in 6.428 seconds (process running for 7.893)
+2023-01-26 11:53:42,756 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8081-exec-1] Field 'id' doesn't have a default value
+2023-01-26 11:56:06,326 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 14164 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 11:56:06,335 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 11:56:06,336 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 11:56:10,280 INFO c.t.TestApplication [main] Started TestApplication in 4.251 seconds (process running for 5.132)
+2023-01-26 11:56:36,717 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8081-exec-2] Table 'testdb.author' doesn't exist
+2023-01-26 11:57:01,623 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 8700 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 11:57:01,632 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 11:57:01,633 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 11:57:09,788 INFO c.t.TestApplication [main] Started TestApplication in 8.492 seconds (process running for 9.446)
+2023-01-26 11:57:13,250 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 1051ms, using 671 record(s)
+2023-01-26 11:59:44,000 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 17164 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 11:59:44,007 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 11:59:44,007 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 11:59:47,600 INFO c.t.TestApplication [main] Started TestApplication in 3.896 seconds (process running for 4.669)
+2023-01-26 11:59:50,351 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 737ms, using 671 record(s)
+2023-01-26 11:59:50,380 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8081-exec-1] Field 'id' doesn't have a default value
+2023-01-26 12:01:29,677 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 12164 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:01:29,685 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:01:29,686 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:01:38,200 INFO c.t.TestApplication [main] Started TestApplication in 8.806 seconds (process running for 9.573)
+2023-01-26 12:01:45,897 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [authors] Got 671 records in 677ms, using 671 record(s)
+2023-01-26 12:02:13,036 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [authors] Finished inserting records in 27137ms
+2023-01-26 12:02:13,229 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [collections] Got 47 records in 192ms, using 47 record(s)
+2023-01-26 12:02:14,869 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [collections] Finished inserting records in 1639ms
+2023-01-26 12:02:15,283 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [epochs] Got 28 records in 411ms, using 28 record(s)
+2023-01-26 12:02:16,261 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [epochs] Finished inserting records in 977ms
+2023-01-26 12:02:16,624 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [genres] Got 127 records in 361ms, using 127 record(s)
+2023-01-26 12:02:21,227 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [genres] Finished inserting records in 4602ms
+2023-01-26 12:02:21,614 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [kinds] Got 17 records in 386ms, using 17 record(s)
+2023-01-26 12:02:22,326 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [kinds] Finished inserting records in 712ms
+2023-01-26 12:02:25,781 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [themes] Got 723 records in 3453ms, using 723 record(s)
+2023-01-26 12:02:56,284 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [themes] Finished inserting records in 30502ms
+2023-01-26 12:02:58,393 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [books] Got 6836 records in 2108ms, using 6836 record(s)
+2023-01-26 12:08:41,977 INFO c.t.DtoObjectTest [http-nio-8081-exec-2] [books] Finished inserting records in 343580ms
+2023-01-26 12:34:06,236 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 18240 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:34:06,243 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:34:06,243 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:34:09,823 INFO c.t.TestApplication [main] Started TestApplication in 3.881 seconds (process running for 4.703)
+2023-01-26 12:40:28,949 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 9428 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:40:28,958 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:40:28,958 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:40:32,807 INFO c.t.TestApplication [main] Started TestApplication in 4.149 seconds (process running for 4.881)
+2023-01-26 12:41:08,816 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 4984 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:41:08,823 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:41:08,823 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:41:12,502 INFO c.t.TestApplication [main] Started TestApplication in 3.98 seconds (process running for 4.727)
+2023-01-26 12:43:37,668 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 20572 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:43:37,675 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:43:37,676 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:43:41,370 INFO c.t.TestApplication [main] Started TestApplication in 3.99 seconds (process running for 4.697)
+2023-01-26 12:50:11,471 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 11080 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:50:11,478 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:50:11,479 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:50:15,183 INFO c.t.TestApplication [main] Started TestApplication in 3.997 seconds (process running for 4.803)
+2023-01-26 12:50:21,477 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8081-exec-1] Cannot delete or update a parent row: a foreign key constraint fails (`testdb`.`book`, CONSTRAINT `FKklnrv3weler2ftkweewlky958` FOREIGN KEY (`author_id`) REFERENCES `author` (`id`))
+2023-01-26 12:51:15,039 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 12560 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:51:15,046 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:51:15,047 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:51:23,093 INFO c.t.TestApplication [main] Started TestApplication in 8.341 seconds (process running for 9.097)
+2023-01-26 12:51:26,596 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 858ms, using 671 record(s)
+2023-01-26 12:55:06,470 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 13328 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:55:06,478 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:55:06,479 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:55:12,374 INFO c.t.TestApplication [main] Started TestApplication in 6.204 seconds (process running for 6.981)
+2023-01-26 12:55:32,750 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 15316 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:55:32,758 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:55:32,759 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:55:43,227 INFO c.t.TestApplication [main] Started TestApplication in 10.766 seconds (process running for 11.504)
+2023-01-26 12:55:56,861 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 852ms, using 671 record(s)
+2023-01-26 12:56:35,904 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 14648 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 12:56:35,910 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 12:56:35,911 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 12:56:39,697 INFO c.t.TestApplication [main] Started TestApplication in 4.091 seconds (process running for 4.872)
+2023-01-26 12:56:43,827 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 935ms, using 671 record(s)
+2023-01-26 12:57:38,504 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Finished inserting records in 54676ms
+2023-01-26 12:57:38,766 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Got 47 records in 261ms, using 47 record(s)
+2023-01-26 12:57:42,555 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Finished inserting records in 3787ms
+2023-01-26 12:57:42,962 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 406ms, using 28 record(s)
+2023-01-26 12:57:45,288 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Finished inserting records in 2324ms
+2023-01-26 12:57:45,672 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 382ms, using 127 record(s)
+2023-01-26 12:57:55,487 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Finished inserting records in 9814ms
+2023-01-26 12:57:55,705 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 215ms, using 17 record(s)
+2023-01-26 12:57:57,270 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Finished inserting records in 1564ms
+2023-01-26 12:57:59,211 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Got 723 records in 1940ms, using 723 record(s)
+2023-01-26 12:58:58,568 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Finished inserting records in 59356ms
+2023-01-26 12:59:04,399 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 5830ms, using 200 record(s)
+2023-01-26 12:59:22,665 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Finished inserting records in 18265ms
+2023-01-26 13:16:54,661 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 19660 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:16:54,669 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:16:54,670 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:16:58,370 INFO c.t.TestApplication [main] Started TestApplication in 4.004 seconds (process running for 4.762)
+2023-01-26 13:17:47,764 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 15396 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:17:47,772 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:17:47,774 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:17:51,543 INFO c.t.TestApplication [main] Started TestApplication in 4.071 seconds (process running for 4.823)
+2023-01-26 13:19:19,306 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 18876 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:19:19,313 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:19:19,314 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:19:23,091 INFO c.t.TestApplication [main] Started TestApplication in 4.068 seconds (process running for 4.853)
+2023-01-26 13:27:28,338 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 3500 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:27:28,345 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:27:28,346 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:27:32,033 INFO c.t.TestApplication [main] Started TestApplication in 3.99 seconds (process running for 4.737)
+2023-01-26 13:32:05,867 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 16976 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:32:05,877 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:32:05,878 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:32:09,580 INFO c.t.TestApplication [main] Started TestApplication in 4.015 seconds (process running for 4.751)
+2023-01-26 13:34:16,910 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 10620 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:34:16,916 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:34:16,917 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:34:20,506 INFO c.t.TestApplication [main] Started TestApplication in 3.882 seconds (process running for 4.619)
+2023-01-26 13:34:46,255 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 23160 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:34:46,263 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:34:46,263 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:34:49,876 INFO c.t.TestApplication [main] Started TestApplication in 3.901 seconds (process running for 4.622)
+2023-01-26 13:36:23,249 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 21744 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:36:23,257 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:36:23,258 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:36:26,518 INFO c.t.TestApplication [main] Started TestApplication in 3.542 seconds (process running for 4.189)
+2023-01-26 13:36:55,082 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 13608 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:36:55,088 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:36:55,089 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:37:03,413 INFO c.t.TestApplication [main] Started TestApplication in 8.602 seconds (process running for 9.19)
+2023-01-26 13:37:49,241 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 18200 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:37:49,250 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:37:49,250 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:37:52,724 INFO c.t.TestApplication [main] Started TestApplication in 3.752 seconds (process running for 4.344)
+2023-01-26 13:37:58,370 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 866ms, using 300 record(s)
+2023-01-26 13:38:11,095 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Finished inserting records in 12722ms
+2023-01-26 13:38:11,289 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Got 47 records in 194ms, using 47 record(s)
+2023-01-26 13:38:13,334 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [collections] Finished inserting records in 2043ms
+2023-01-26 13:38:13,541 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 206ms, using 28 record(s)
+2023-01-26 13:38:14,727 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Finished inserting records in 1185ms
+2023-01-26 13:38:14,950 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 222ms, using 127 record(s)
+2023-01-26 13:38:19,717 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Finished inserting records in 4766ms
+2023-01-26 13:38:19,859 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 140ms, using 17 record(s)
+2023-01-26 13:38:20,744 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Finished inserting records in 884ms
+2023-01-26 13:38:21,544 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Got 723 records in 799ms, using 5 record(s)
+2023-01-26 13:38:21,775 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [themes] Finished inserting records in 230ms
+2023-01-26 13:38:28,367 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 6591ms, using 200 record(s)
+2023-01-26 13:38:37,275 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Finished inserting records in 8906ms
+2023-01-26 13:48:52,458 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 19032 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:48:52,465 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:48:52,466 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:48:55,824 INFO c.t.TestApplication [main] Started TestApplication in 3.64 seconds (process running for 4.275)
+2023-01-26 13:54:03,252 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 14780 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 13:54:03,262 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 13:54:03,263 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 13:54:07,292 INFO c.t.TestApplication [main] Started TestApplication in 4.319 seconds (process running for 4.932)
+2023-01-26 14:03:49,827 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 5672 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 14:03:49,833 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 14:03:49,833 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 14:03:53,226 INFO c.t.TestApplication [main] Started TestApplication in 3.67 seconds (process running for 4.277)
+2023-01-26 14:08:15,928 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 14432 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 14:08:15,934 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 14:08:15,934 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 14:08:19,169 INFO c.t.TestApplication [main] Started TestApplication in 3.515 seconds (process running for 4.126)
+2023-01-26 14:10:27,696 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 24424 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 14:10:27,703 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 14:10:27,704 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 14:10:30,986 INFO c.t.TestApplication [main] Started TestApplication in 3.558 seconds (process running for 4.163)
+2023-01-26 14:12:19,623 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 5228 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-26 14:12:19,629 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-26 14:12:19,629 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-26 14:12:22,964 INFO c.t.TestApplication [main] Started TestApplication in 3.605 seconds (process running for 4.198)
+2023-01-29 12:55:59,073 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 16848 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 12:55:59,082 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 12:55:59,082 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 12:56:06,881 INFO c.t.TestApplication [main] Started TestApplication in 8.131 seconds (process running for 8.917)
+2023-01-29 12:56:19,896 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [authors] Got 671 records in 874ms, using 300 record(s)
+2023-01-29 12:56:31,335 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [authors] Finished inserting records in 11437ms
+2023-01-29 12:56:31,714 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [epochs] Got 28 records in 377ms, using 28 record(s)
+2023-01-29 12:56:32,750 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [epochs] Finished inserting records in 1032ms
+2023-01-29 12:56:33,090 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [genres] Got 127 records in 340ms, using 127 record(s)
+2023-01-29 12:56:38,566 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [genres] Finished inserting records in 5474ms
+2023-01-29 12:56:38,815 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [kinds] Got 17 records in 249ms, using 17 record(s)
+2023-01-29 12:56:39,515 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [kinds] Finished inserting records in 699ms
+2023-01-29 12:56:44,490 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [books] Got 6836 records in 4974ms, using 200 record(s)
+2023-01-29 12:56:52,773 INFO c.t.DtoObjectTest [http-nio-8081-exec-4] [books] Finished inserting records in 8280ms
+2023-01-29 13:07:38,578 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 11720 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:07:38,584 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:07:38,585 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:09:49,457 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 9692 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:09:49,464 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:09:49,465 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:16:50,530 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 1332 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:16:50,536 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:16:50,537 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:16:58,821 INFO c.t.TestApplication [main] Started TestApplication in 8.563 seconds (process running for 9.146)
+2023-01-29 13:22:21,733 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 18832 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:22:21,738 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:22:21,739 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:22:29,034 INFO c.t.TestApplication [main] Started TestApplication in 7.578 seconds (process running for 8.173)
+2023-01-29 13:22:29,950 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 649ms, using 300 record(s)
+2023-01-29 13:22:41,935 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Finished inserting records in 11984ms
+2023-01-29 13:22:42,150 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 213ms, using 28 record(s)
+2023-01-29 13:22:43,401 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Finished inserting records in 1250ms
+2023-01-29 13:22:43,619 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 217ms, using 127 record(s)
+2023-01-29 13:22:48,758 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Finished inserting records in 5135ms
+2023-01-29 13:22:48,988 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 230ms, using 17 record(s)
+2023-01-29 13:22:49,727 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Finished inserting records in 737ms
+2023-01-29 13:22:51,931 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 2203ms, using 200 record(s)
+2023-01-29 13:23:00,184 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Finished inserting records in 8252ms
+2023-01-29 13:27:08,927 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 21932 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:27:08,933 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:27:08,934 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:27:17,065 INFO c.t.TestApplication [main] Started TestApplication in 8.417 seconds (process running for 9.03)
+2023-01-29 13:27:20,036 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Got 671 records in 613ms, using 300 record(s)
+2023-01-29 13:27:32,479 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [authors] Finished inserting records in 12441ms
+2023-01-29 13:27:32,711 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Got 28 records in 232ms, using 28 record(s)
+2023-01-29 13:27:33,881 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [epochs] Finished inserting records in 1169ms
+2023-01-29 13:27:34,070 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Got 127 records in 189ms, using 127 record(s)
+2023-01-29 13:27:38,870 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [genres] Finished inserting records in 4798ms
+2023-01-29 13:27:39,018 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Got 17 records in 147ms, using 17 record(s)
+2023-01-29 13:27:39,752 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [kinds] Finished inserting records in 734ms
+2023-01-29 13:27:41,963 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Got 6836 records in 2210ms, using 200 record(s)
+2023-01-29 13:27:51,248 INFO c.t.DtoObjectTest [http-nio-8081-exec-1] [books] Finished inserting records in 9284ms
+2023-01-29 13:30:04,828 INFO c.t.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 10768 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:30:04,835 DEBUG c.t.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:30:04,836 INFO c.t.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:30:12,278 INFO c.t.TestApplication [main] Started TestApplication in 7.74 seconds (process running for 8.334)
+2023-01-29 13:30:16,691 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Got 671 records in 636ms, using 300 record(s)
+2023-01-29 13:30:29,344 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 12652ms
+2023-01-29 13:30:29,549 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Got 28 records in 203ms, using 28 record(s)
+2023-01-29 13:30:30,919 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 1369ms
+2023-01-29 13:30:31,300 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Got 127 records in 381ms, using 127 record(s)
+2023-01-29 13:30:36,694 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 5393ms
+2023-01-29 13:30:36,931 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Got 17 records in 234ms, using 17 record(s)
+2023-01-29 13:30:37,552 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 620ms
+2023-01-29 13:30:41,102 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Got 6836 records in 3550ms, using 200 record(s)
+2023-01-29 13:30:50,154 INFO c.t.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 9051ms
+2023-01-29 13:44:07,647 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 2716 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:44:07,652 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:44:07,653 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:44:15,478 INFO c.j.l.TestApplication [main] Started TestApplication in 8.11 seconds (process running for 8.749)
+2023-01-29 13:44:18,757 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Got 671 records in 616ms, using 300 record(s)
+2023-01-29 13:44:30,594 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 11834ms
+2023-01-29 13:44:30,833 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Got 28 records in 237ms, using 28 record(s)
+2023-01-29 13:44:32,051 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 1217ms
+2023-01-29 13:44:32,324 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Got 127 records in 270ms, using 127 record(s)
+2023-01-29 13:44:37,292 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 4966ms
+2023-01-29 13:44:37,468 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Got 17 records in 175ms, using 17 record(s)
+2023-01-29 13:44:38,191 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 721ms
+2023-01-29 13:44:40,711 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Got 6836 records in 2519ms, using 200 record(s)
+2023-01-29 13:44:50,475 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 9761ms
+2023-01-29 13:47:32,583 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 5652 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:47:32,589 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:47:32,590 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:47:39,933 INFO c.j.l.TestApplication [main] Started TestApplication in 7.643 seconds (process running for 9.065)
+2023-01-29 13:48:05,551 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [authors] Got 671 records in 661ms, using 300 record(s)
+2023-01-29 13:48:17,445 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [authors] Finished inserting records in 11891ms
+2023-01-29 13:48:17,678 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [epochs] Got 28 records in 230ms, using 28 record(s)
+2023-01-29 13:48:18,788 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [epochs] Finished inserting records in 1109ms
+2023-01-29 13:48:19,000 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [genres] Got 127 records in 212ms, using 127 record(s)
+2023-01-29 13:48:23,950 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [genres] Finished inserting records in 4947ms
+2023-01-29 13:48:24,102 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [kinds] Got 17 records in 152ms, using 17 record(s)
+2023-01-29 13:48:24,894 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [kinds] Finished inserting records in 791ms
+2023-01-29 13:48:27,163 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [books] Got 6836 records in 2268ms, using 200 record(s)
+2023-01-29 13:48:36,096 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-2] [books] Finished inserting records in 8930ms
+2023-01-29 13:49:55,201 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 22460 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:49:55,210 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:49:55,211 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:50:02,676 INFO c.j.l.TestApplication [main] Started TestApplication in 7.746 seconds (process running for 8.492)
+2023-01-29 13:50:12,864 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Got 671 records in 704ms, using 300 record(s)
+2023-01-29 13:50:24,999 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 12133ms
+2023-01-29 13:50:25,231 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Got 28 records in 231ms, using 28 record(s)
+2023-01-29 13:50:26,248 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 1016ms
+2023-01-29 13:50:26,448 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Got 127 records in 198ms, using 127 record(s)
+2023-01-29 13:50:32,474 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 6025ms
+2023-01-29 13:50:32,734 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Got 17 records in 258ms, using 17 record(s)
+2023-01-29 13:50:33,382 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 646ms
+2023-01-29 13:50:35,421 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Got 6836 records in 2037ms, using 200 record(s)
+2023-01-29 13:50:46,023 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 10602ms
+2023-01-29 13:52:29,581 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 1520 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:52:29,588 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:52:29,589 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:52:36,700 INFO c.j.l.TestApplication [main] Started TestApplication in 7.394 seconds (process running for 7.997)
+2023-01-29 13:52:48,735 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [authors] Got 671 records in 622ms, using 300 record(s)
+2023-01-29 13:53:02,079 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [authors] Finished inserting records in 13343ms
+2023-01-29 13:53:02,347 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [epochs] Got 28 records in 267ms, using 28 record(s)
+2023-01-29 13:53:03,871 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [epochs] Finished inserting records in 1523ms
+2023-01-29 13:53:04,061 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [genres] Got 127 records in 188ms, using 127 record(s)
+2023-01-29 13:53:09,405 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [genres] Finished inserting records in 5342ms
+2023-01-29 13:53:09,687 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [kinds] Got 17 records in 281ms, using 17 record(s)
+2023-01-29 13:53:10,463 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [kinds] Finished inserting records in 775ms
+2023-01-29 13:53:13,111 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [books] Got 6836 records in 2647ms, using 200 record(s)
+2023-01-29 13:53:22,105 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-6] [books] Finished inserting records in 8993ms
+2023-01-29 13:55:34,208 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 21392 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:55:34,215 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:55:34,216 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:55:37,482 INFO c.j.l.TestApplication [main] Started TestApplication in 3.542 seconds (process running for 4.155)
+2023-01-29 13:56:47,949 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 14012 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:56:47,957 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:56:47,958 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:56:51,169 INFO c.j.l.TestApplication [main] Started TestApplication in 3.505 seconds (process running for 4.207)
+2023-01-29 13:56:57,789 ERROR o.h.e.j.s.SqlExceptionHelper [http-nio-8081-exec-3] Cannot delete or update a parent row: a foreign key constraint fails (`jaz_lektury`.`book`, CONSTRAINT `FKklnrv3weler2ftkweewlky958` FOREIGN KEY (`author_id`) REFERENCES `author` (`id`))
+2023-01-29 13:58:14,738 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 13124 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\test)
+2023-01-29 13:58:14,744 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 13:58:14,745 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 13:58:17,924 INFO c.j.l.TestApplication [main] Started TestApplication in 3.463 seconds (process running for 4.055)
+2023-01-29 13:58:22,182 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Got 671 records in 580ms, using 300 record(s)
+2023-01-29 13:58:35,533 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 13350ms
+2023-01-29 13:58:35,763 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Got 28 records in 227ms, using 28 record(s)
+2023-01-29 13:58:36,990 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 1226ms
+2023-01-29 13:58:37,197 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Got 127 records in 205ms, using 127 record(s)
+2023-01-29 13:58:42,023 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 4825ms
+2023-01-29 13:58:42,170 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Got 17 records in 146ms, using 17 record(s)
+2023-01-29 13:58:42,873 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 702ms
+2023-01-29 13:58:45,249 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Got 6836 records in 2375ms, using 200 record(s)
+2023-01-29 13:58:54,274 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 9022ms
+2023-01-29 14:00:13,993 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 19320 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:00:14,001 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:00:14,002 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:00:17,194 INFO c.j.l.TestApplication [main] Started TestApplication in 3.468 seconds (process running for 4.205)
+2023-01-29 14:00:25,636 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Got 671 records in 841ms, using 300 record(s)
+2023-01-29 14:00:38,147 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 12509ms
+2023-01-29 14:00:38,562 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Got 28 records in 414ms, using 28 record(s)
+2023-01-29 14:00:39,967 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 1402ms
+2023-01-29 14:00:40,284 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Got 127 records in 316ms, using 127 record(s)
+2023-01-29 14:00:45,673 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 5388ms
+2023-01-29 14:00:45,878 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Got 17 records in 204ms, using 17 record(s)
+2023-01-29 14:00:46,856 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 977ms
+2023-01-29 14:00:52,042 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Got 6836 records in 5185ms, using 200 record(s)
+2023-01-29 14:01:00,806 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 8763ms
+2023-01-29 14:03:59,136 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 16020 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:03:59,144 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:03:59,145 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:04:02,288 INFO c.j.l.TestApplication [main] Started TestApplication in 3.431 seconds (process running for 4.015)
+2023-01-29 14:04:30,487 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 13500 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:04:30,493 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:04:30,493 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:04:33,628 INFO c.j.l.TestApplication [main] Started TestApplication in 3.409 seconds (process running for 3.99)
+2023-01-29 14:08:22,113 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 18416 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:08:22,121 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:08:22,122 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:08:25,369 INFO c.j.l.TestApplication [main] Started TestApplication in 3.523 seconds (process running for 4.117)
+2023-01-29 14:08:38,265 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Got 671 records in 669ms, using 300 record(s)
+2023-01-29 14:08:51,534 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 13268ms
+2023-01-29 14:08:51,766 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Got 28 records in 230ms, using 28 record(s)
+2023-01-29 14:08:52,891 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 1124ms
+2023-01-29 14:08:53,311 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Got 127 records in 419ms, using 127 record(s)
+2023-01-29 14:08:58,749 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 5436ms
+2023-01-29 14:08:59,117 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Got 17 records in 367ms, using 17 record(s)
+2023-01-29 14:08:59,950 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 832ms
+2023-01-29 14:09:05,095 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Got 6836 records in 5146ms, using 200 record(s)
+2023-01-29 14:09:13,273 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 8176ms
+2023-01-29 14:10:23,949 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 3912 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:10:23,958 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:10:23,959 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:10:31,210 INFO c.j.l.TestApplication [main] Started TestApplication in 7.532 seconds (process running for 8.121)
+2023-01-29 14:20:06,188 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 10944 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:20:06,196 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:20:06,197 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:20:09,836 INFO c.j.l.TestApplication [main] Started TestApplication in 3.924 seconds (process running for 4.527)
+2023-01-29 14:20:17,272 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Got 671 records in 703ms, using 671 record(s)
+2023-01-29 14:20:44,406 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 27131ms
+2023-01-29 14:20:44,657 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Got 28 records in 250ms, using 28 record(s)
+2023-01-29 14:20:45,721 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 1063ms
+2023-01-29 14:20:45,946 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Got 127 records in 224ms, using 127 record(s)
+2023-01-29 14:20:50,929 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 4982ms
+2023-01-29 14:20:51,118 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Got 17 records in 187ms, using 17 record(s)
+2023-01-29 14:20:51,996 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 876ms
+2023-01-29 14:20:54,550 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Got 6836 records in 2554ms, using 6836 record(s)
+2023-01-29 14:26:47,667 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 353115ms
+2023-01-29 14:48:47,845 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 16044 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:48:47,855 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:48:47,856 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:48:51,171 INFO c.j.l.TestApplication [main] Started TestApplication in 3.621 seconds (process running for 4.503)
+2023-01-29 14:56:01,980 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 16736 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:56:01,987 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:56:01,988 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:56:05,289 INFO c.j.l.TestApplication [main] Started TestApplication in 3.579 seconds (process running for 4.213)
+2023-01-29 14:56:11,756 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-4] Error 404, could not retrieve data from https://wolnelektury.pl/ap/authors
+2023-01-29 14:57:11,242 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 23448 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 14:57:11,249 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 14:57:11,250 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 14:57:14,563 INFO c.j.l.TestApplication [main] Started TestApplication in 3.594 seconds (process running for 4.191)
+2023-01-29 14:57:27,862 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/authors
+2023-01-29 14:57:27,863 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 0ms
+2023-01-29 14:57:27,917 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/epochs
+2023-01-29 14:57:27,918 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 0ms
+2023-01-29 14:57:27,996 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/genres
+2023-01-29 14:57:27,999 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 0ms
+2023-01-29 14:57:28,131 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/kinds
+2023-01-29 14:57:28,132 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 0ms
+2023-01-29 14:57:28,183 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/books
+2023-01-29 14:57:28,184 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 0ms
+2023-01-29 15:00:50,646 INFO c.j.l.TestApplication [main] Starting TestApplication using Java 17.0.2 with PID 6472 (C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429\target\classes started by Horacy in C:\Users\Horacy\Files\PJATK\JAZ\project\test_19_01_2023\jaz_project_s25429)
+2023-01-29 15:00:50,655 DEBUG c.j.l.TestApplication [main] Running with Spring Boot v3.0.1, Spring v6.0.3
+2023-01-29 15:00:50,656 INFO c.j.l.TestApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-29 15:00:54,041 INFO c.j.l.TestApplication [main] Started TestApplication in 3.675 seconds (process running for 4.282)
+2023-01-29 15:00:58,662 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/authors
+2023-01-29 15:00:58,662 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [authors] Finished inserting records in 0ms
+2023-01-29 15:00:58,723 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/epochs
+2023-01-29 15:00:58,723 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [epochs] Finished inserting records in 0ms
+2023-01-29 15:00:58,824 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/genres
+2023-01-29 15:00:58,825 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [genres] Finished inserting records in 0ms
+2023-01-29 15:00:58,912 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/kinds
+2023-01-29 15:00:58,912 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [kinds] Finished inserting records in 0ms
+2023-01-29 15:00:58,964 ERROR c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] Error 404, could not retrieve data from https://wolnelektury.pl/ap/books
+2023-01-29 15:00:58,965 INFO c.j.l.s.DatabaseUpdate [http-nio-8081-exec-1] [books] Finished inserting records in 0ms
+2023-01-29 15:01:10,725 INFO c.j.l.c.LogReader [http-nio-8081-exec-3] Reading logs at 2023-01-29T15:01:10.725562800
+2023-01-29 15:01:15,954 INFO c.j.l.c.LogReader [http-nio-8081-exec-5] Reading logs at 2023-01-29T15:01:15.954192500
